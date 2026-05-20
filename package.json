@@ -1,0 +1,44 @@
+{
+ "name": "newentity",
+ "description": "I/O environment for agentic websites",
+ "version": "1.0.0",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/newentityai/newentity.git"
+ },
+ "contributors": [
+  {
+   "name": "New Entity Operations Inc.",
+   "email": "operator@newentityoperations.com",
+   "url": "https://www.NewEntityOperations.com",
+   "role": "operations"
+  },
+  {
+   "name": "Ryan McKenna.",
+   "email": "ryan@ryanmckenna.com",
+   "url": "https://www.RyanMcKenna.com",
+   "role": "author"
+  }
+ },
+ "keywords": [
+  "newentity",
+  "New Entity",
+  "CORE",
+  "corehost",
+  "NETWORKING",
+  "io",
+  "New Entity Operations",
+  "Ryan McKenna"
+ ],
+ "author": "New Entity Operations Inc.",
+ "license": "MIT",
+ "bugs": {
+  "url": "https://newentityoperations.com/bugs/newentity"
+ },
+ "homepage": "https://newentity.ai/io/"
+ "os": [
+  "darwin",
+  "linux",
+  "win64"
+ ],
+}
