@@ -1,16 +1,18 @@
-# newentity
+# newentity™
 
-New Entity™ I/O provides developers of all skill levels with an open source and performant starting point to handle interactions from site visitors.
+A New Entity™ allows you to setup a local-first to production pipeline for agentic websites.
+
+I/O environment support provides developers of all skill levels with an open source and performant starting point to handle interactions from site visitors on both local machines and in production environments.
 
 ## About the package
 
-The newentity™ package allows you to setup a complex i/o environment for any website. The environment binds a CDN, HOST, and Instance Attributes such as a verified ID/key to incoming and outgoing user traffic.
+The newentity™ package allows you to setup a complex i/o environment for any website by changing 8 variables.
+
+The environment binds a CDN, HOST, and Instance Attributes such as a verified ID/key to incoming and outgoing user traffic to prepare any website for agentic interactions.
 
 ## Setting up the instance
 
-Media/Asset files are not provided by default, so you will need to change them to locations that match files you have available for use.
-
-With that said, you can change the following categories to enable a newentity.js instance:
+You can change the following categories to enable a newentity.js instance:
 
 * 1.) const HOST = "<YOUR_SITE_HERE>";
 	* example: "www.core.host";
@@ -28,3 +30,5 @@ With that said, you can change the following categories to enable a newentity.js
 	* example: "asset.core.host"
 * 8.) const keyCDN = "/<YOUR_CDN_KEY_HERE>";
 	* example: "/D11B9HBYTLHN"
+
+Media/Asset files are not provided by default, so you will need to change them to locations that match files you have available for use.
