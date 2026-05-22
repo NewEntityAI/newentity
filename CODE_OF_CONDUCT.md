@@ -14,7 +14,7 @@ We aren't here to babysit anyone. We want our work to remain objective and profr
 
 * 1.) Trolling
 * 2.) Insulting or derogatory comments
-* 3.) Person attacks
+* 3.) Personal attacks
 * 4.) Political narratives
 * 5.) Harassment
 * 6.) Discrimination
