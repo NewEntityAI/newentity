@@ -6,19 +6,19 @@ We aren't here to babysit anyone. We want our work to remain objective and profr
 
 ## Requested communication style
 
-1.) Use to the point language
-2.) Do not use narrative-based language in Pull requests
-3.) Keep your communication purposeful and objective
+* 1.) Use to the point language
+* 2.) Do not use narrative-based language in Pull requests
+* 3.) Keep your communication purposeful and objective
 
 ## Unacceptable behaviors that will not be tolerated
 
-1.) Trolling
-2.) Insulting or derogatory comments
-3.) Person attacks
-4.) Political narratives
-5.) Harassment
-6.) Discrimination
-7.) Bullying
+* 1.) Trolling
+* 2.) Insulting or derogatory comments
+* 3.) Person attacks
+* 4.) Political narratives
+* 5.) Harassment
+* 6.) Discrimination
+* 7.) Bullying
 
 ## Summary of Code of Conduct
 
