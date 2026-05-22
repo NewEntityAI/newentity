@@ -22,4 +22,4 @@ We aren't here to babysit anyone. We want our work to remain objective and profr
 
 ## Summary of Code of Conduct
 
-We wish to create a growth-mindset for the project and the community members interested in this software. For this reason, it is asked you keep things professional and respectful regardless of what community member or staff member you are interacting with at all times. At any time, New Entity Operations Inc., Ryan McKenna, or any of their affiliates to make decisions about your conduct and act according to this Code of Conduct policy.
+We wish to create a growth-mindset for the project and the community members interested in this software. For this reason, it is asked you keep things professional and respectful regardless of what community member or staff member you are interacting with at all times. At any time, New Entity Operations Inc., Ryan McKenna, or any of their affiliates are permitted to make decisions about your conduct and act according to this Code of Conduct policy.
