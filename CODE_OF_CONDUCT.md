@@ -2,7 +2,7 @@
 
 ## New Entity™ software pledge
 
-We aren't here to babysit anyone. We want our work to remain objective and profressional. We will not tolerate any behavior that could be viewed as harassment, discrimination, or bullying. We will only engage with community members that keep a profesional tone and dialogue with maintainers and the community.
+We aren't here to babysit anyone. We want our work to remain objective and profressional. We will not tolerate any behavior that could be viewed as harassment, discrimination, or bullying. We will only engage with community members that keep a professional tone and dialogue with maintainers and the community.
 
 ## Requested communication style
 
